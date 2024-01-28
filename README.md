@@ -30,15 +30,14 @@ Você pode <a href="https://projeto-portfolio-a0ozlzd3m-alesousz.vercel.app/">ac
 
 As tecnologias utilizadas neste projeto foram:
 
-- `HTML`: para estruturar o conteúdo da página web
-
-- `CSS`: para estilizar o visual da página web
+<div>
+  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/JQuery-F7DF1E?style=for-the-badge&logo=jquery&logoColor=black">
   
-- `FLEXBOX`: para estilizar o visual da página web
-  
-- `Javascript`: para programar a lógica e a interatividade do jogo
+</div>
 
-- `DOM(Document Object Model)`: para manipular o HTML e o CSS usando o JavaScript
 <br><br>
 
 # Desenvolvedores
