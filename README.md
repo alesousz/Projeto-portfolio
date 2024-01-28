@@ -1,6 +1,8 @@
 <h1 align="center"> Portfolio </h1>
 <br><br>
 
+![site print](https://github.com/alesousz/Projeto-portfolio/assets/111446099/3979cc66-e352-4f37-bb82-6fd2352bbdfb)
+
 **Descrição**
 
 Este é um projeto desenvolvido no Programa ONE, em parceria com o Potência Tech powered by iFood. Este projeto foi desenvolvido a partir dos cursos de HTML e CSS disponibilizados na plataforma da Alura  e envolveu o uso de JavaScript, HTML, CSS e DOM para criar um site responsivo.
@@ -19,7 +21,7 @@ O objetivo do projeto é praticar os conceitos de lógica de programação, como
 
 # 📁 Acesso ao projeto
 
-Você pode <a href="https://github.com/alesousz/Projeto-ALURA-ONE-23">acessar o projeto finalizado</a> ou <a href="">você pode baixar o código-fonte do projeto pelo GitHub e executá-lo localmente no seu navegador.</a>
+Você pode <a href="https://projeto-portfolio-a0ozlzd3m-alesousz.vercel.app/">acessar o projeto finalizado</a> ou <a href="">você pode baixar o código-fonte do projeto pelo GitHub e executá-lo localmente no seu navegador.</a>
 
 **Divertir-se com o jogo!**
 <br><br>
